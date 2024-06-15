@@ -2,7 +2,7 @@
 
 Table Generator is a cool and easy-to-use tool made with React.js.
 
-You can check it out: <a href="https://github.com/ammadsaleem18/table-generator">Ammad - Table Generator</a>.
+You can check it out: <a href="https://tablegenerator-ammad.vercel.app/">Ammad - Table Generator</a>.
 
 ## ✨ Features
 
