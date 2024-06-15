@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/public/img/favicon.psd
 
 # testing
 /coverage
